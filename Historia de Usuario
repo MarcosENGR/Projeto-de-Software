@@ -1,0 +1,21 @@
+# Historia de usuarios
+
+Para o usuario
+
+- Como usuario, eu quero poder me cadastrar e fazer login para que eu possa utilizar o aplicativo sem que precise introduzir minhas informações toda vez que entrar no aplicativo.
+- Como usuario, eu quero jogar contra a maquina para que eu possa praticar sozinho.
+- Como usuario, eu quero escolher o nível de dificuldade da IA para que o jogo seja desafiador de acordo com minha habilidade.
+- Como usuario, eu quero jogar partidas contras outros jogadores para que eu possa testar minhas habilidades.
+
+Para o jogador iniciante 
+
+- Como iniciante, eu quero receber dicas durante a partida contra a maquina para que eu possa aprender as melhores jogadas.
+- Como iniciante, eu quero ter acesso a lições para melhorar o meu conhecimento no xadrez.
+- Como iniciante, eu quero competir contra jogadores que estejam no mesmo nivel de habilidade que o meu.
+
+Para o jogador experiente 
+
+- Como jogador experiente, eu quero um sistema de ranqueamento com base na minha habilidade.
+- Como jogador experiente, eu quero ver meu historico de partidas para que eu posso acompanhar meu desempenho.
+- Como jogador experiente, eu quero recompensas por melhorar minhas habilidades.
+- Como jogador experiente, eu quero poder escolher se eu desejo uma revanche contra o meu oponente apos o termino da partida.
