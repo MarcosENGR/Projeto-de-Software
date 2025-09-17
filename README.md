@@ -9,5 +9,9 @@
 * Diagrama de sequencia:
   https://www.figma.com/board/7w4zFZAj48xuQSBN9BGGyB/Diagrama-de-sequencia-xadrez?node-id=0-1&p=f&t=0Jzrv3JxATr0HIc0-0
 
+* Fluxograma:
+  https://www.figma.com/board/NL94sDRrceBfdONCtVxNg3/Fluxograma?node-id=0-1&p=f&t=IpbTwOeWwludNOU8-0
+
 * Exemplo tela de Login:
   https://www.figma.com/design/rpdXqjlNmSy1mVuUwn0RXH/Untitled?node-id=0-1&p=f&t=hdm7bR5K9QEYszhI-0
+
