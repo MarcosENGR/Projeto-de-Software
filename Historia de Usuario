@@ -3,13 +3,16 @@
 Para o usuario
 
 - Como usuario, eu quero poder me cadastrar e fazer login para que eu possa utilizar o aplicativo sem que precise introduzir minhas informações toda vez que entrar no aplicativo.
+- Como usuario, eu quero que minhas informações de cadastro sejam protegidas para que eu possa me sentir seguro ao criar uma conta no app.
 - Como usuario, eu quero jogar contra a maquina para que eu possa praticar sozinho.
 - Como usuario, eu quero escolher o nível de dificuldade da IA para que o jogo seja desafiador de acordo com minha habilidade.
 - Como usuario, eu quero jogar partidas contras outros jogadores para que eu possa testar minhas habilidades.
 - Como usuario, eu quero escolher o meu nivel de conhecimento ao me cadastrar para que eu possa receber instruções compativeis com meu nivel de habilidade.
+- Como usuario, eu quero que o aplicativo tenha um rapido tempo de resposta para que eu possa ter o resultado da minha interação em no maximo 1 segundo.
 
 Para o jogador iniciante 
 
+- Como iniciante, eu quero que o aplicativo tenha uma interface simples e intuitiva de se usar para meu melhor entendimento.
 - Como iniciante, eu quero receber dicas durante a partida contra a maquina para que eu possa aprender as melhores jogadas.
 - Como iniciante, eu quero ter acesso a lições para melhorar o meu conhecimento no xadrez.
 - Como iniciante, eu quero competir contra jogadores que estejam no mesmo nivel de habilidade que o meu.
