@@ -22,7 +22,7 @@ Promover o ensino e a prática do xadrez através de uma plataforma digital aces
 
 ##  Materiais do Projeto
 
-###  Casos de Uso  
+###  Caso de Uso  
  [Acessar no Figma](https://www.figma.com/design/S1GMkgxaufh2EGAeu7fUWl/Caso-de-uso?t=Qt3N8RX7EvviMe2X-0)
 
 ###  Diagrama de Sequência  
