@@ -1,12 +1,12 @@
 # ChessLab
 
-**ChessLab** é um aplicativo intuitivo e interativo para quem deseja **jogar, aprender e evoluir no xadrez**. Seja você um iniciante querendo entender os movimentos ou um jogador experiente buscando novos desafios, o ChessLab oferece uma plataforma acessível com **partidas contra a máquina ou entre jogadores online**.
+**ChessLab** é um aplicativo intuitivo para quem deseja **jogar, aprender e evoluir no xadrez**. Seja um iniciante querendo entender os movimentos ou um jogador experiente buscando novos desafios.
 
 ---
 
 ##  Objetivo
 
-Promover o ensino e a prática do xadrez através de uma plataforma digital acessível, moderna e divertida. O ChessLab quer ser o seu **laboratório de xadrez** – onde você aprende com os erros e comemora as vitórias.
+Promover o ensino e a prática do xadrez através de uma plataforma digital acessível, moderna e divertida.
 
 ---
 
