@@ -31,7 +31,7 @@ Promover o ensino e a prática do xadrez através de uma plataforma digital aces
 ###  Fluxograma  
  [Acessar no Figma](https://www.figma.com/board/NL94sDRrceBfdONCtVxNg3/Fluxograma?node-id=0-1&p=f&t=IpbTwOeWwludNOU8-0)
 
-###  Exemplo de Tela
+###  Projeto de Inteface
  [Acessar no Figma](https://www.figma.com/design/rpdXqjlNmSy1mVuUwn0RXH/Untitled?node-id=0-1&p=f&t=hdm7bR5K9QEYszhI-0)
 
 
