@@ -1,4 +1,4 @@
-**João Marcos Serrano
+**João Marcos Serrano**
 
 # ChessLab
 
