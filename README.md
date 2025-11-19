@@ -1,3 +1,5 @@
+**João Marcos Serrano
+
 # ChessLab
 
 **ChessLab** é um aplicativo intuitivo para quem deseja **jogar, aprender e evoluir no xadrez**. Seja um iniciante querendo entender os movimentos ou um jogador experiente buscando novos desafios.
