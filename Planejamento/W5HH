@@ -1,1 +1,18 @@
 
+1. What? – O que deve ser feito?
+  Desenvolver um aplicativo mobile de xadrez online completo que permita os usuarios aprender as regras do jogo, treinar contra a maquina e jogar contra outros jogadores. O foco principal é para usuarios casuais e que desejam desenvolver suas habilidades, mas também com a existencia de um modo competitivo com recompensas aos jogadores por ganhar as partidas.
+
+2. Why? – Por que isso deve ser feito?
+  Para facilitar o conhecimento e aprendizado ao xadrez, expandir o publico de jogadores, deselvolver as habilidades dos jogadores, criar uma plataforma competitiva que oferece recompensas pelo desempenho do usuario. O sistema poderá gerar lucro para a empresa com metodos de microtransação dentro do aplicativo para os usuarios que desejarem realizar compras na plataforma. 
+
+3. Where? – Onde será feito?
+  O desenvolvimento será remoto e colaborativo, utilizando ambientes em nuvem:
+
+  Repositório: GitHub
+  Integração e testes: AWS
+  Reuniões e acompanhamento: Google Meet e Trello
+
+  O sistema final será hospedado em servidor cloud.
+
+4. When? – Quando será feito?
+  
