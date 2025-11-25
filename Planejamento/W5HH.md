@@ -31,7 +31,7 @@
 - Remoto e colaborativo, utilizando nuvem.
 - Ferramentas:
   - Repositório: GitHub
-  - Integração e testes: AWS
+  - Integração e testes: AWS (nuvem)
   - Reuniões e acompanhamento: Google Meet e Trello
 
 **Disponibilidade do App:**  
