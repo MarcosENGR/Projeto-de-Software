@@ -115,7 +115,7 @@
 | Desenvolvedor Backend | 1 | Full-time | Cria APIs, banco de dados, login, ranking, multiplayer e painel admin |
 | Especialista IA | 1 | Parcial | Integra e ajusta motor de xadrez (Stockfish) |
 | QA/Testador | 1 | Full-time | Testa o app, encontra bugs e garante qualidade |
-| DevOps | 1 | Parcial | Configura servidores, infraestrutura e publica o app |
+| DevSecOps | 1 | Full-time | Configura servidores, infraestrutura e publica o app |
 
 ---
 
@@ -131,25 +131,26 @@
 | Desenvolvedor Backend | R$ 12.000 | R$ 72.000 |
 | Especialista IA | R$ 4.000 | R$ 24.000 |
 | QA/Testador | R$ 6.000 | R$ 36.000 |
-| DevOps | R$ 4.000 | R$ 24.000 |
+| DevOps | R$ 12.000 | R$ 72.000 |
 
-**Total equipe:** R$ 408.000
+**Total equipe:** R$ 456.000 x 1,8 = R$ 820.800
 
 ### Marketing do lançamento
 
 - Criação de vídeos, anúncios e identidade visual: R$ 4.000  
 - Campanhas (Instagram, TikTok, YouTube): R$ 8.000 – R$ 15.000  
 - Site oficial + domínio + hospedagem: R$ 1.200  
-- Parcerias com influenciadores: R$ 3.000 – R$ 7.000  
+- Parcerias com influenciadores: R$ 3.000 – R$ 7.000
+- Trafego pago: R$ 1.000 - R$ 2.000
 
-**Total marketing:** R$ 16.000 – R$ 27.000
+**Total marketing:** R$ 17.000 – R$ 29.000
 
 ### Infraestrutura (6 meses)
 
 - Servidores, banco de dados, armazenamento, autenticação e serviços externos: R$ 6.180
 
 ### **Custo total estimado:**  
-R$ 430.180 – R$ 441.180
+R$ 841.180 – R$ 855.180
 
 ---
 
